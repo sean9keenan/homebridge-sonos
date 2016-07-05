@@ -1,17 +1,14 @@
 {
   "name": "homebridge-sonos",
   "version": "0.1.0",
-  "description": "Sonos plugin for homebridge: https://github.com/nfarina/homebridge",
+  "description": "Sonos plugin for homebridge: https://github.com/sean9keenan/homebridge",
   "license": "ISC",
   "keywords": [
     "homebridge-plugin"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/nfarina/homebridge-sonos.git"
-  },
-  "bugs": {
-    "url": "http://github.com/nfarina/homebridge-sonos/issues"
+    "url": "git://github.com/sean9keenan/homebridge-sonos.git"
   },
   "engines": {
     "node": ">=0.12.0",

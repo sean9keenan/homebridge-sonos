@@ -13,6 +13,13 @@ Example config.json:
       ]
     }
 
-The `room` parameter must match the room name in Sonos exactly.
+*IMPORTANT*: The `room` parameter must match the room name in Sonos exactly.
 
 Note that the name "Speakers" is used in the name for this example instead of something more intuitive like "Sonos" or "Music" or "Radio", as Siri has many stronger associations for those words. For instance, including "Sonos" in the name will likely cause Siri to just launch the Sonos app. And including "Music" in the name will cause Siri to launch the built-in Music app.
+
+This is a refactored version of https://github.com/nfarina/homebridge
+
+To install run 
+```
+npm install sean9keenan/homebridge-sonos
+```
